@@ -1,0 +1,16 @@
+asgiref==3.7.2
+distlib==0.3.7
+Django==3.0.14
+django-binary-database-files==1.0.10
+filelock==3.12.2
+gunicorn==21.2.0
+mysql-connector-python==8.1.0
+packaging==23.1
+platformdirs==3.9.1
+protobuf==4.21.12
+pytz==2023.3
+six==1.16.0
+sqlparse==0.4.4
+tzdata==2023.3
+virtualenv==20.24.0
+whitenoise==6.5.0
